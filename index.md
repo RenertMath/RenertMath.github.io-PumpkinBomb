@@ -1,6 +1,6 @@
 ### Welcome to the Pumpkin BOMB challenge
 
-In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins (A, B, C, and D). We will be using size 64 (3.5 inch by 0.25 inch) elastic bands on implosion day. The features for some of our historical implosion data is listed below: 
+In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins (A, B, C, and D). The features for some of our historical implosion data, and the measurments taken in class are shown below: 
 
 | #   | Year | Width_cm | Height_cm | Circumference_cm | Mass_g | State | Elastics |
 | --- | ------- | -------- | --------- | ---------------- | ------ | ----- | -------- |
