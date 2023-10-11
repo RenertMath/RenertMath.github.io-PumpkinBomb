@@ -19,7 +19,6 @@ In this challenge you are trying to estimate the number of elastic bands it take
 | 13  | **2023 (C)** |          |           |                  |        |       |          |              |
 | 14  | **2023 (D)** |          |           |                  |        |       |          |              |
 
-Each pumpkin has a unique shape and size. Can you tell how big they are? 
 
 We have created <a href="https://drive.google.com/file/d/1YJOabLfp-1xUdJ0rJRpUtZUwLfkyxJCw/view?usp=sharing"> this video </a> to help you understand what this will look like, and to aid in your estimation. Can you figure out the diameter of the pumpkin in the video? 
 
