@@ -1,6 +1,6 @@
 ### Welcome to the Pumpkin BOMB challenge
 
-In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins. We will be using size 64 (3.5 inch by 0.25 inch) elastic bands on implosion day. The features for some of our historical implosion data is listed below: 
+In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins (A, B, C, and D). We will be using size 64 (3.5 inch by 0.25 inch) elastic bands on implosion day. The features for some of our historical implosion data is listed below: 
 
 | #   | Year | Width_cm | Height_cm | Circumference_cm | Mass_g | State | Elastics | Elastic Size |
 | --- | ---- | -------- | --------- | ---------------- | ------ | ----- | -------- | ------------ |
@@ -14,10 +14,10 @@ In this challenge you are trying to estimate the number of elastic bands it take
 | 8   | 2021 | 30       | 26.5      | 91.5             | 6000   | 0.8   | 184      | 64           |
 | 9   | 2021 | 29       | 25.5      | 90               | 6000   | 1     | 231      | 64           |
 | 10  | 2021 | 29.5     | 25        | 90               | 5500   | 1     | 189      | 64           |
-| 11  | **2023 (Pumpikin A)** |          |           |                  |        |       |          |              |
-| 12  | **2023 (Pumpikin B)** |          |           |                  |        |       |          |              |
-| 13  | **2023 (Pumpikin C)** |          |           |                  |        |       |          |              |
-| 14  | **2023 (Pumpikin D)** |          |           |                  |        |       |          |              |
+| 11  | **2023 (A)** |          |           |                  |        |       |          |              |
+| 12  | **2023 (B)** |          |           |                  |        |       |          |              |
+| 13  | **2023 (C)** |          |           |                  |        |       |          |              |
+| 14  | **2023 (D)** |          |           |                  |        |       |          |              |
 
 Each pumpkin has a unique shape and size. Can you tell how big they are? 
 
