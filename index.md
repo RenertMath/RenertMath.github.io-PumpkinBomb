@@ -37,9 +37,9 @@ There will be prizes awared for the:
 GOOD LUCK and **MATH ON!** 
 
 You may also look at the results from previous years contests below: 
-* <a href="https://drive.google.com/file/d/1Z0qygOGQlnMmf5den5_b1On6tkzoT_S9/view?usp=sharing"> 2020 </a>.
-* <a href="https://drive.google.com/file/d/1yORInaqjEnbLPS6XbNZ28thkQyk3Wy7V/view?usp=sharing"> 2021 </a>.
-* <a href="https://drive.google.com/file/d/1-tEn_9tYB3G0_-gNnOXlG22BNlignBUf/view?usp=sharing"> 2022 </a>.
+* <a href="https://drive.google.com/file/d/1Z0qygOGQlnMmf5den5_b1On6tkzoT_S9/view?usp=sharing"> 2020 </a>
+* <a href="https://drive.google.com/file/d/1yORInaqjEnbLPS6XbNZ28thkQyk3Wy7V/view?usp=sharing"> 2021 </a>
+* <a href="https://drive.google.com/file/d/1-tEn_9tYB3G0_-gNnOXlG22BNlignBUf/view?usp=sharing"> 2022 </a>
 
 <!--
 ### RESULTS 
