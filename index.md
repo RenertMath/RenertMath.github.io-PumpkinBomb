@@ -14,10 +14,10 @@ In this challenge you are trying to estimate the number of elastic bands it take
 | 8   | 2021 | 30       | 26.5      | 91.5             | 6000   | 0.8   | 184      |
 | 9   | 2021 | 29       | 25.5      | 90               | 6000   | 1     | 231      |
 | 10  | 2021 | 29.5     | 25        | 90               | 5500   | 1     | 189      |
-| 11  | **2023 (A)** |          |           |                  |        |       |          |
-| 12  | **2023 (B)** |          |           |                  |        |       |          |
-| 13  | **2023 (C)** |          |           |                  |        |       |          |
-| 14  | **2023 (D)** |          |           |                  |        |       |          |
+| 11  | **2023 (A)**    |           |                  |                |        |       |          |
+| 12  | **2023 (B)**    | 21        |      16          |        66      |    2120    |    0.9  |     ?    |
+| 13  | **2023 (C)**    |           |                  |                  |        |       |          |
+| 14  | **2023 (D)**    |           |                  |                  |        |       |          |
 
 We have created <a href="https://drive.google.com/file/d/1YJOabLfp-1xUdJ0rJRpUtZUwLfkyxJCw/view?usp=sharing"> this video </a> to help you understand what this will look like, and to aid in your estimation. Can you figure out the diameter of the pumpkin in the video? 
 
